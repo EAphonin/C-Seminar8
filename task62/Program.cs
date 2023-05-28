@@ -1,5 +1,5 @@
 ﻿// Напишите программу, которая заполнит спирально массив 4 на 4.
-int[,] array = GetArray(5, 5);
+int[,] array = GetArray(4, 4);
 
 PrintArray(array);
 Console.WriteLine();
